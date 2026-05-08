@@ -5,8 +5,6 @@
 - 🌱 現在はKotlinに集中
 - 💬 "アイデアを形にできるようになる！"
 
-## Language used
-
 
 ## 📊 GitHub Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-kobaa&theme=gruvbox)
