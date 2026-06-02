@@ -13,5 +13,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=y-kobaa&theme=gruvbox)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=y-kobaa&theme=gruvbox&utcOffset=9)
 
-## 🏆 GitHub Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=y-kobaa&theme=gruvbox)
+
