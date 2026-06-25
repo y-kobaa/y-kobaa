@@ -3,7 +3,7 @@
 - 🎓 情報工学科3年生
 - 📱 Androidアプリ開発を勉強中！
 - 🌱 現在はKotlinに集中
-- 🦖 MyPage：
+- 🦖 MyPage：https://juicy-comfort-242.notion.site/y-kobaa-38956da0a7c380338bd2c5eb987a0f01?source=copy_link
 
 
 ## 📊 GitHub Stats
